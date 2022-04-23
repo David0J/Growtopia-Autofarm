@@ -12,6 +12,7 @@ written 100% in python.
 ```sh
 pip install PySimpleGUI
 pip install pynput
+pip install webbrowser
 ```
 ## Features
 
