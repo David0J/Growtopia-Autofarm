@@ -1,4 +1,4 @@
-# Growtopis-Autofarm
+# Growtopia-Autofarm
 ## _Best Functioning Growtopia Autofarmer_
 
 Growtopia-Autofarm is an autofarming software, Pc only, runs with and without console,
