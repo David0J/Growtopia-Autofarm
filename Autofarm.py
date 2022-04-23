@@ -8,7 +8,7 @@ punch_wait = 0
 punch_time = 0
 keyboard = Controller()
 
-layout = [[sg.Text("Welcome to David0's autofarm menu!")], [sg.Button("Laser Grids")], [sg.Button("Harvesting With Sorrow")], [sg.Button("Chandeliers")], [sg.Button("Grass/Pepper/Sugar")], [sg.Button("Cancel")]]
+layout = [[sg.Text("Welcome to David0J's autofarm menu!")], [sg.Button("Laser Grids")], [sg.Button("Harvesting With Sorrow")], [sg.Button("Chandeliers")], [sg.Button("Grass/Pepper/Sugar")], [sg.Button("Cancel")]]
 
 window = sg.Window("Autofarming Menu", layout)
 
