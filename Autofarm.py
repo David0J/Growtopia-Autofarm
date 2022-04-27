@@ -1,4 +1,3 @@
-import time
 import PySimpleGUI as Psg
 import pause
 import webbrowser
