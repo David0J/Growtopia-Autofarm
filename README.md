@@ -3,7 +3,7 @@
 
 Growtopia-Autofarm is an autofarming software, Pc only, runs with and without console,
 written 100% in python.
-PS:
+### PS:
 IF YOU WANT TO CHANGE FARMING MODE AND THE AUTO-FARMER CRASHES CLOSE THE CONSOLE AND REOPEN THE APP.
 
 #### Setup:
