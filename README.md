@@ -9,7 +9,7 @@ IF YOU WANT TO CHANGE FARMING MODE AND THE AUTO-FARMER CRASHES CLOSE THE CONSOLE
 #### Setup:
 
 - Have Python3 installed
-- Have PIP installed
+- Have PIP installed ([Tutorial Here](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/))
 - Open CMD and run the commands blow:
 ```sh
 pip install PySimpleGUI
