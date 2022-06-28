@@ -13,8 +13,9 @@ IF YOU WANT TO CHANGE FARMING MODE AND THE AUTO-FARMER CRASHES CLOSE THE CONSOLE
 - Open CMD and run the commands blow:
 ```sh
 pip install PySimpleGUI
-pip install pynput
 pip install webbrowser
+pip install pynput
+pip install pause
 ```
 ## Features
 
