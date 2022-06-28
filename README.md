@@ -17,7 +17,7 @@ pip install webbrowser
 pip install pynput
 pip install pause
 ```
-- [Download](Autofarm.py) The [AutoFarmer}(Autofarm.py) And Run It.
+- [Download](Autofarm.py) The [AutoFarmer](Autofarm.py) And Run It.
 ## Features
 
 - Autofarming Chandeliers
