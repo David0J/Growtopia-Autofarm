@@ -36,8 +36,8 @@ pip install webbrowser
 | Python 3.9.11 | [Download](https://www.python.org/downloads/release/python-3911/) |
 
 
-# License
+## License
 
-## [GrowStore]{growstore.tk)
+[GrowStore]{growstore.tk)
 
 [//]: # (This Software is owned by GrowStore aka David0J)
