@@ -38,6 +38,6 @@ pip install webbrowser
 
 ## License
 
-[GrowStore]{growstore.tk)
+[GrowStore](growstore.tk)
 
 [//]: # (This Software is owned by GrowStore aka David0J)
