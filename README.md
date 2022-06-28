@@ -28,16 +28,16 @@ pip install webbrowser
 
 | Compatible Python Versions | Download Link |
 | ------ | ------ |
+| Python 3.10.5 | [Download](https://www.python.org/downloads/release/python-3105/) |
+| Python 3.9.13 | [Download](https://www.python.org/downloads/release/python-3913/) |
 | Python 3.10.4 | [Download](https://www.python.org/downloads/release/python-3104/) |
 | Python 3.9.12 | [Download](https://www.python.org/downloads/release/python-3912/) |
 | Python 3.10.3 | [Download](https://www.python.org/downloads/release/python-3103/) |
 | Python 3.9.11 | [Download](https://www.python.org/downloads/release/python-3911/) |
-| Python 3.8.13 | [Download](https://www.python.org/downloads/release/python-3813/) |
-| Python 3.9.10 | [Download](https://www.python.org/downloads/release/python-3910/) |
 
 
-## License
+# License
 
-David0J
+## [GrowStore]{growstore.tk)
 
-[//]: # (This Software is owned by David0J)
+[//]: # (This Software is owned by GrowStore aka David0J)
