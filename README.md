@@ -40,6 +40,6 @@ pip install pause
 
 ## License
 
-[GrowStore](https://growstore.tk)
+[David0J](https://davidjawhar.com)
 
-[//]: # (This Software is owned by GrowStore aka David0J)
+[//]: # (This Software is owned by David Jawhar aka David0J)
