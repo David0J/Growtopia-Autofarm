@@ -118,7 +118,7 @@ keyboards = Controller()
 
 Psg.theme('LightGreen10')
 
-layout = [[Psg.Text("Welcome to GrowStore's auto-farming menu!")],
+layout = [[Psg.Text("Welcome to David's auto-farming menu!")],
           [Psg.Text("Farming:")],
           [Psg.Button(image_data=lgrid, button_color=(Psg.theme_background_color(), Psg.theme_background_color()),
                       border_width=0, key='Laser Grids'),
